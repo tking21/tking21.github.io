@@ -1,7 +1,5 @@
-#creating new tab for CV
-
 ---
-layout: pages
+layout: page
 title: CV
 sidebar_link: true
 ---
