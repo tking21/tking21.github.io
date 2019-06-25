@@ -4,11 +4,14 @@ title: CV
 sidebar_link: true
 ---
 
-Teisha P. King
-202 Life Sciences Building • Baton Rouge, LA 70803
-443-255-6956
-tking21@lsu.edu
-______________________________________________________________________
+<html>
+	
+	
+<p> <center> <b>Teisha P. King </b> </center> </p>
+<p> <center> 202 Life Sciences Building • Baton Rouge, LA 70803 </center> </p>
+<p> <center> 443-255-6956 </center> </p>
+<p> <center> tking21@lsu.edu </center> </p>
+
 
 EDUCATION
 Ph.D. Candidate Biological Sciences - Louisiana State University, Baton Rouge (August 2016 - Present)
@@ -90,3 +93,6 @@ LSU Welcome Weekend (LSU Leadership Team)		February 2018
 Woman in Science Ambassador (LSU Leadership Team)	August 2017 - July 2018  
 LSU BioGrads Social Chair (LSU Leadership Team)		August 2017 - Present
 LSU Welcome Weekend (LSU Leadership Team)		February 2017
+
+
+</html>
