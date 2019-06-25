@@ -7,11 +7,12 @@ sidebar_link: true
 <html>
 	
 	
-<p> <center> <b>Teisha P. King </b> </center> </p>
-<p> <center> 202 Life Sciences Building • Baton Rouge, LA 70803 </center> </p>
-<p> <center> 443-255-6956 </center> </p>
-<p> <center> tking21@lsu.edu </center> </p>
+<p> <center> <b>Teisha P. King </b> </center> <br>
+<center> 202 Life Sciences Building • Baton Rouge, LA 70803 </center> <br>
+<center> 443-255-6956 </center> <br>
+<center> tking21@lsu.edu </center> </p>
 
+<hr>
 
 EDUCATION
 Ph.D. Candidate Biological Sciences - Louisiana State University, Baton Rouge (August 2016 - Present)
