@@ -6,7 +6,7 @@ sidebar_sort_order: 4
 ---
 
 <html>
-	
+<body>	
 	
 <p> <center> <b>Teisha P. King </b> </center> <br>
 <center> 202 Life Sciences Building • Baton Rouge, LA 70803 </center> <br>
@@ -15,7 +15,6 @@ sidebar_sort_order: 4
 
 <hr>
 
-<pre>
 <b><h3>EDUCATION</h3></b>
 Ph.D. Candidate Biological Sciences - Louisiana State University, Baton Rouge (August 2016 - Present)
 B.S. Biological Sciences - University of Maryland Baltimore County(UMBC) (May 2016)
@@ -101,5 +100,5 @@ LSU BioGrads Social Chair (LSU Leadership Team)		August 2017 - Present
 LSU Welcome Weekend (LSU Leadership Team)		February 2017
 
 
-</pre>
+</body>
 </html>
