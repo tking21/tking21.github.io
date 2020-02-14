@@ -10,7 +10,6 @@ sidebar_sort_order: 4
 	
 <p> <center> <b>Teisha P. King </b> </center> <br>
 <center> 202 Life Sciences Building • Baton Rouge, LA 70803 </center> <br>
-<center> 443-255-6956 </center> <br>
 <center> tking21@lsu.edu </center> </p>
 
 <hr>
