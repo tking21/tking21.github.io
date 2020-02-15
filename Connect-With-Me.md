@@ -10,7 +10,7 @@ sidebar_sort_order: 5
 <body>
   
 <a href="http://www.kmaruska.biology.lsu.edu/">
-  <img src="maruska_logo.png" style="boarder:0"/>
+  <img src="Aburtoni_natgeolarge.jpg" style="boarder:0"/>
 </a>
   
   
